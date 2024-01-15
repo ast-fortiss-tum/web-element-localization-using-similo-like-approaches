@@ -1,0 +1,7 @@
+Stability,Is button,Tag,Text,Dimensions,ID-XPath,XPath,Neighbour Text,Location\\ 
+Exists,10377,10377,10377,10377,10377,10377,10377,10377\\ 
+Same,10349,10334,9903,8621,8225,5671,5538,3725\\ 
+Different,28,43,474,1756,2152,4706,4839,6652\\ 
+Removed,0,0,0,0,0,0,0,0\\ 
+Added,0,0,0,0,0,0,0,0\\ 
+Stability,0.99,0.99,0.95,0.83,0.79,0.54,0.53,0.35

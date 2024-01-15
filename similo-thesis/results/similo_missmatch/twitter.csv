@@ -1,0 +1,18 @@
+Property,Original Value,Target Value,Similarity,Weighted,Found Value,Similarity,Weighted
+tag,A,SPAN,0.25,0.1375,A,1.0,0.55
+class,css-4rbku5 css-18t94o4 css-1dbjc4n r-1niwhzg r-p1n3y5 r-sdzlij r-1phboty r-rs99b7 r-1loqt21 r-13awgt0 r-1w2pmg r-117bsoe r-17w48nw r-1pl7oy7 r-snto4y r-1ny4l3l r-1dye5f7 r-o7ynqc r-6416eg r-lrvibr,css-18t94o4 css-901oao css-16my406 r-1n1174f r-poiln3 r-bcqeeo r-qvutc0,0.0,0.0,css-4rbku5 css-18t94o4 css-1dbjc4n r-14lw9ot r-1ets6dv r-sdzlij r-1phboty r-rs99b7 r-1loqt21 r-13awgt0 r-117bsoe r-17w48nw r-19yznuf r-64el8z r-1ny4l3l r-1dye5f7 r-o7ynqc r-6416eg r-lrvibr,0.0,0.0
+name,null,null,0.0,0.0,null,0.0,0.0
+id,null,null,0.0,0.0,null,0.0,0.0
+href,/login,null,0.0,0.0,/i/flow/signup,0.0,0.0
+alt,null,null,0.0,0.0,null,0.0,0.0
+type,null,null,0.0,0.0,null,0.0,0.0
+aria-label,null,null,0.0,0.0,null,0.0,0.0
+xpath,/html/body/div/div/div/div/main/div/div/div/div[1]/div[2]/div[3]/a[2],/html/body/div/div/div/div/main/div/div/div/div[1]/div/div[3]/div[4]/span,0.0,0.0,/html/body/div/div/div/div/main/div/div/div/div[1]/div/div[3]/a,0.0,0.0
+id-xpath,//*[@id='react-root']/div/div/div/main/div/div/div/div[1]/div[2]/div[3]/a[2],//*[@id='react-root']/div/div/div/main/div/div/div/div[1]/div/div[3]/div[4]/span,0.0,0.0,//*[@id='react-root']/div/div/div/main/div/div/div/div[1]/div/div[3]/a,0.0,0.0
+is_button,true,true,1.0,0.1,true,1.0,0.1
+location,(1092;614),(1268;739),0.33981183596135855,0.39078361135556233,(1092;614),1.0,1.15
+dimension,(380;48),(40;18),0.039473684210526314,0.039473684210526314,(380;52),0.9230769230769231,0.9230769230769231
+text,Log in,Log in,1.0,2.85,Sign up with phone or email,0.14814814814814814,0.4222222222222222
+neighbour,sign up log in),by signing up; you agree to the terms of service and privacy policy; including cookie use. policy already have an account? log in,0.08,0.11199999999999999,sign up with apple phone or email by signing up; you agree to the terms of service and privacy policy; including cookie use. policy,0.07692307692307693,0.1076923076923077
+attributes,Map(href -> /login; role -> link; class -> css-4rbku5 css-18t94o4 css-1dbjc4n r-1niwhzg r-p1n3y5 r-sdzlij r-1phboty r-rs99b7 r-1loqt21 r-13awgt0 r-1w2pmg r-117bsoe r-17w48nw r-1pl7oy7 r-snto4y r-1ny4l3l r-1dye5f7 r-o7ynqc r-6416eg r-lrvibr; data-testid -> loginButton),Map(role -> button; tabindex -> 0; class -> css-18t94o4 css-901oao css-16my406 r-1n1174f r-poiln3 r-bcqeeo r-qvutc0,0.5,0.825,Map(href -> /i/flow/signup; role -> link; class -> css-4rbku5 css-18t94o4 css-1dbjc4n r-14lw9ot r-1ets6dv r-sdzlij r-1phboty r-rs99b7 r-1loqt21 r-13awgt0 r-117bsoe r-17w48nw r-19yznuf r-64el8z r-1ny4l3l r-1dye5f7 r-o7ynqc r-6416eg r-lrvibr; data-testid -> signupButton),1.0,1.65
+total,-,-,-,4.454757295566089,-,-,4.9029914529914524

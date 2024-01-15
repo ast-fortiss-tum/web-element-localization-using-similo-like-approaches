@@ -1,0 +1,3 @@
+package similo
+
+trait State

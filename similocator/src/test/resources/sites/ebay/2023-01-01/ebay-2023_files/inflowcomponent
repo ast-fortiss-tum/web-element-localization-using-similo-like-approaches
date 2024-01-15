@@ -1,0 +1,43 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+(function (w, d, s, f, js, fjs) {
+                w["IFHLiteConfig"] = {"pageId":4432023,"gbhEnabled":false,"fromGH":"true","serviceUrl":"https://web.archive.org/web/20230901145619/https://www.ebay.com/ifh/","additionalInfo":{"enabledForTracking":true,"enabledForStaticPresence":false,"enabledForInflowHelp":false,"enabledForDSA":false,"enabledForCobrowsing":true,"enabledForWebTagging":false,"presenceId":"","helpUrl":"https://web.archive.org/web/20230901145619/https://www.ebay.com/help/home","signInUrl":"https://web.archive.org/web/20230901145619/https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&UsingSSL=1&siteid=0&co_partnerId=2&pageType=3726040&ru=https%3A%2F%2Fwww.ebay.com%2Fifh%2Finflowcomponent%3Fcallback%3DInflow.cb%26fromGH%3Dtrue%26input%3D%257B%2522pageId%2522%253A4432023%252C%2522gbhEnabled%2522%253Afalse%257D","captchaBaseUrl":"https://web.archive.org/web/20230901145619/https://www.ebay.com","browserArticleUrl":"https://web.archive.org/web/20230901145619/https://www.ebay.com/help/policies/technical-issues/technical-issues?id=4220&amp;st=3&amp;pos=1&amp;query=Technical%20issues&amp;intent=supported%20browsers&amp;lucenceai=lucenceai","enableForDsaSubmitRL":true,"isGuestCaptchaEnabled":true,"siteId":0,"privacyNoticeUrl":"https://web.archive.org/web/20230901145619/https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260","reportLearnMoreUrl":"https://web.archive.org/web/20230901145619/https://www.ebay.com/help/account/regulatory/reporting-content-eBay?id=5412","coBrowseGroupId":20315,"environment":"production","coBrowseURL":"https://web.archive.org/web/20230901145619/https://ir.ebaystatic.com/cr/v/c1/cobrowse_4.17.2","coBrowseJSSriHash":"sha256-92wq7YN962q1BpR15a3t1gf4iCT4Pt+fd10R3KNptus= sha384-eHVSMAuPhCOiBSl/72opmWVwY71rcLmgA7zNFVXgFu9zqABnDJRZlAEN/bn/TzjE sha512-L7fzw20SwB7/sb9djvN5rIeqlnvM79FmvHr95U/q4GqD98yk+kPCJXJg5P44V0QK439XzegVDGML4jV4BCwakQ==","coBrowseLoaderJS":"GlanceCobrowseLoader_4.17.0M.js","content":{"startShare":"Start sharing","stopShare":"Stop sharing"}}};
+                f.forEach(function(file) {
+                  (js = d.createElement(s)), (fjs = d.getElementsByTagName(s)[0]);
+                  js.src = file;
+                  js.async = 1;
+                  fjs.parentNode.insertBefore(js, fjs);
+                });
+              })(window, document, "script", ["https://web.archive.org/web/20230901145619/https://www.ebay.com/ifh/lite-ifh6ae894e8ab6cf380ef64.js"])
+
+}
+/*
+     FILE ARCHIVED ON 14:56:19 Sep 01, 2023 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:01:23 Nov 26, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 110.322
+  exclusion.robots: 0.084
+  exclusion.robots.policy: 0.072
+  cdx.remote: 0.071
+  esindex: 0.01
+  LoadShardBlock: 70.297 (3)
+  PetaboxLoader3.datanode: 152.944 (5)
+  load_resource: 258.375 (2)
+  PetaboxLoader3.resolve: 83.776 (2)
+*/

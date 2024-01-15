@@ -1,0 +1,15 @@
+Property;Original Value;Target Value;Similarity;Weighted;Found Value;Similarity;Weighted
+tag;A;BUTTON;0.0;0.0;A;1.0;0.55
+class;Some(dropdown-toggle);None;0.0;0.0;Some(dropdown-toggle);1.0;1.5
+name;None;None;0.0;0.0;None;0.0;0.0
+id;Some(btnSolutions);Some(btnNewSolutions);0.8;1.0;None;0.0;0.0
+href;Some(javascript:);None;0.0;0.0;Some(javascript:);1.0;1.5
+xpath;/html/body/div[1]/div[2]/div/div[1]/div[2]/div[2]/div/ul[1]/li[2]/a;/html/body/div[1]/div[3]/div/div[1]/nav[2]/div[2]/div/ul[1]/li[2]/button;0.0;0.0;/html/body/div[1]/div[6]/div[1]/div/div/div[1]/div[5]/ul[2]/li/div/a;0.0;0.0
+id-xpath;//*[@id='btnSolutions'];//*[@id='btnNewSolutions'];0.8846153846153846;0.22115384615384615;//*[@id='footer-new']/div/div[1]/div[5]/ul[2]/li/div/a;0.0;0.0
+is_button;0.0;0.0;0.0;0.0;1.0;1.0;0.1
+location;(414,40);(534,40);0.5488116360940265;0.6311333815081305;(1220,4752);0.0;0.0
+dimension;(110,64);(79,64);0.7181818181818181;0.7181818181818181;(112,26);0.41363636363636364;0.41363636363636364
+text;Some(SOLUTIONS );Some(Solutions);0.09999999999999998;0.2849999999999999;Some(US Dollars $ );0.15384615384615385;0.4384615384615385
+neighbour;Some(request a demo 1.888.799.9666 support solutions plans & pricing contact sales resources join host sign in up, it's free);Some(search support 1.888.799.9666 request a demo join host sign in products solutions resources plans & pricing contact sales up free next work transformation summit - jan. 18th 9am pt register now);0.5151515151515151;0.7212121212121212;Some(currency us dollars $ zoom on blog linkedin twitter youtube facebook instagram);0.0;0.0
+attributes;HashMap(aria-expanded -> false, id -> btnSolutions, data-toggle -> dropdown, class -> dropdown-toggle, href -> javascript:);Map(id -> btnNewSolutions, data-toggle -> dropdown, aria-expanded -> false);0.6;0.9899999999999999;HashMap(aria-haspopup -> listbox, role -> button, data-toggle -> dropdown, class -> dropdown-toggle, href -> javascript:, data-hover -> dropdown, data-close-others -> true);0.42857142857142855;0.7071428571428571
+total;-;-;-;4.566681167055916;-;-;5.209240759288635
